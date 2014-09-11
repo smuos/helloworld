@@ -1,3 +1,3 @@
 # HelloWorld
 
-This class is awesome.
+This class is awesome. :shipit:
